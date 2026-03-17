@@ -6,7 +6,7 @@
 
 Working explorations in systems design, automation, and applied AI.
 
-This repository serves as a technical notebook — documenting patterns, ideas, and small workflow implementations that focus on improving how work actually gets done.
+This repository functions as a structured technical notebook — documenting patterns, ideas, and early workflow implementations focused on improving how work actually gets done.
 
 ---
 
@@ -19,31 +19,49 @@ This repository serves as a technical notebook — documenting patterns, ideas, 
 
 ---
 
+## Repository Structure
+
+- `architecture.md`  
+  High-level system thinking and architectural direction
+
+- `/diagrams/`  
+  Visual representations and system maps (Mermaid, conceptual flows)
+
+- `/docs/`  
+  More structured write-ups and emerging patterns
+
+- `/notes/`  
+  Working notes and in-progress ideas
+
+---
+
 ## Context
 
-Most of the work here is intentionally lightweight.
+Most work here is intentionally lightweight.
 
-The goal is not to build production-ready software, but to explore:
+The goal is not production software, but exploration of:
 
 - how systems can be simplified  
 - where automation creates leverage  
-- how AI can be embedded into real workflows  
-- how small improvements compound over time  
+- how AI integrates into real workflows  
+- how small improvements compound  
 
 ---
 
-## What Lives Here
+## Philosophy
 
-- early-stage workflow concepts  
-- prompt-driven process experiments  
-- architecture sketches and thinking  
-- small utilities and supporting scripts  
+Clarity > complexity  
+Systems > scripts  
+Execution > ideas  
 
-Each item represents a piece of a larger idea:  
-improving clarity, reducing friction, and enabling better execution.
+Small improvements, applied consistently, create meaningful results.
 
 ---
 
-## Diagrams
+## Crouch Development
 
-Early architectural sketches and supporting visuals can be found in:
+Systems. Strategy. Execution.
+
+This repository is part of ongoing work under the Crouch Development umbrella, focused on practical improvements across systems, automation, and applied AI.
+
+https://crouchdevelopment.com
