@@ -4,9 +4,9 @@
 
 # ai-workflow-experiments
 
-Working explorations in systems design, automation, and applied AI.
+Working explorations in systems design, automation, and applied AI under **Crouch Development**.
 
-This repository functions as a structured technical notebook — documenting patterns, ideas, and early workflow implementations focused on improving how work actually gets done.
+This repository documents architecture thinking, workflow patterns, and applied AI direction in a lightweight form.
 
 ---
 
@@ -21,47 +21,22 @@ This repository functions as a structured technical notebook — documenting pat
 
 ## Repository Structure
 
-- `architecture.md`  
-  High-level system thinking and architectural direction
-
-- `/diagrams/`  
-  Visual representations and system maps (Mermaid, conceptual flows)
-
-- `/docs/`  
-  More structured write-ups and emerging patterns
-
-- `/notes/`  
-  Working notes and in-progress ideas
+- `architecture.md` contains short architecture notes and framing ideas.
+- `/diagrams/` holds visual sketches and supporting system diagrams.
+- `/docs/` contains repository context, origin, and recurring patterns.
+- `/notes/` is reserved for working notes and in-progress thinking.
 
 ---
 
 ## Context
 
-Most work here is intentionally lightweight.
+Most of the work here is intentionally lightweight and exploratory.
 
-The goal is not production software, but exploration of:
+The goal is not to build production software, but to clarify:
 
 - how systems can be simplified  
 - where automation creates leverage  
-- how AI integrates into real workflows  
-- how small improvements compound  
+- how AI can support real workflows  
+- how small structural improvements compound over time  
 
----
-
-## Philosophy
-
-Clarity > complexity  
-Systems > scripts  
-Execution > ideas  
-
-Small improvements, applied consistently, create meaningful results.
-
----
-
-## Crouch Development
-
-Systems. Strategy. Execution.
-
-This repository is part of ongoing work under the Crouch Development umbrella, focused on practical improvements across systems, automation, and applied AI.
-
-https://crouchdevelopment.com
+The repository is structured as a thinking and architecture workspace rather than an implementation project.
